@@ -1,0 +1,12 @@
+alias gs="git status"
+alias gl="git log"
+alias gaa="git add ."
+alias gc="git commit -m"
+alias gp="git push"
+alias gf="git fetch"
+alias gu="git pull"
+alias py="python3"
+alias pycp="cat input.txt | python3 Solution.py"
+alias jacp="cat input.txt | java Solution.java"
+alias jc="javac *.java"
+

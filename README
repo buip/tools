@@ -1,0 +1,4 @@
+To install aliases
+
+vi .zshrc
+source ~/.aliases
