@@ -1,5 +1,6 @@
 alias gs="git status"
 alias gl="git log"
+alias gc="git checkout master"
 alias gaa="git add ."
 alias gc="git commit -m"
 alias gp="git push"
